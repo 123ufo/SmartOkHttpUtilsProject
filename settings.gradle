@@ -1,1 +1,1 @@
-include ':app', ':smartokhttputils'
+include ':sample', ':smartokhttputils'
